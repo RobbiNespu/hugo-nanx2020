@@ -54,12 +54,21 @@ author {
 /* landing content */
 
 .landing {
-    font-size: 1.3125rem;
+    font-size: 18px;
     line-height: 2rem;
 }
 
 .landing p {
     margin-bottom: 1.5rem;
+}
+
+.landing img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    max-width: 100%;
 }
 
 /* horizontal rule */
